@@ -1,62 +1,87 @@
 ---
 title: "About Me"
-about: Hi! Welcome to my Website! I am a graduate student in Cal Poly Pomona in the Biology Department! I am also one of the resident beekeepers here on campus! I love to cook and bake and Dragon Ball!
-  id: me
-  template: broadside
-  image: haley.png
+id: me
+image: ./haley.jpg
 ---
-
-:::{#me}
+Hi! Welcome to my Website! I am a graduate student in Cal Poly Pomona in the Biology Department! I am also one of the resident beekeepers here on campus! I love to cook and bake and Dragon Ball!
 
 # Education
 
 ### Cal Poly Pomona: Jason Ear Lab - Pursuing Masters of Science in Biological Sciences
 Thesis: Characterizing cell signaling of gene fusion Daple-JAK2 in leukemia cells
+
 Current
+
 Maintain Biosafety Lab 2 Laboratory Space
+
 K562 Cell Culture
+
 Bacterial Transformation
+
 MINI/MIDIprep DNA Purification
+
 Nanophotometer Usage
+
 Cell Growth Media Aliquot
+
 Biosafety Hood Technique
+
 Thesis Level Writing
 
 ### Cal Poly Pomona: Bachelor of Science in Animal Science 
 Spring 2023
+
 On Campus Lab Animal Care
+
 Tissue and DNA Sample Collection
 
 # Experience
 
 ### Cal Poly Pomona - BIO 1210L Energy, Matter, and Info Lab Teaching Associate
+
 August 2023 - Present
+
 Tutelage on PCR, Gel Electrophoresis, Micropipetting, Basic Bacterial Transformation
+
 Instruction on basic SOP protocol, formal lab report, and scientific writing
+
 Pedagogy regarding lab techniques, conduct, and lab safety
 
 ### Cal Poly Pomona - PLT 3360 Bee Science Lab Teaching Associate/Beekeeper
+
 January 2023 - Present
+
 Instruct on managing honey bee behavior through beekeeping tools and techniques
+
 Oversaw campus apiary health through diagnosis and treatment of disease and parasites
 
 ### Foothill Animal Hospital - Veterinary Assistant
+
 July 2021 - December 2022
+
 Vaccination, cephalic and jugular blood draws, X - Ray, preparation of lab samples
+
 Record of medicine application, patient health status, diet, and exercise
+
 Pre and Post Animal Surgical Care
 
 ### Motivating College Learners
+
 CITI Biosafety Complete
+
 NIH Recombinant DNA (rDNA) Guidelines
+
 Animal Biosafety
+
 OSHA Bloodborne Pathogens
+
 OSHA Personal Protective Equipment Training
+
 Participating in Vaccine Research
 
 # Recipes
 
-![Alt](/img/ "grandma.png")
+![Alt](./img/grandma.jpg)
 
 ### Cá Kho
 
