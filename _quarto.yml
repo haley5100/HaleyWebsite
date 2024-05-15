@@ -8,7 +8,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/
@@ -16,7 +15,7 @@ website:
         href: https://github.com/haley5100/haley
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, Haley Mai"
+    left: "&copy; Copyright 2024, Haley Mai"
 
 format:
   html:
