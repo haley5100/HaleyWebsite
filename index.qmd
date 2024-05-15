@@ -1,8 +1,10 @@
 ---
 title: "About Me"
 id: me
-image: ./haley.jpg
+
 ---
+![Me!](./img/haley.jpg){height=300px}
+
 Hi! Welcome to my Website! I am a graduate student in Cal Poly Pomona in the Biology Department! I am also one of the resident beekeepers here on campus! I love to cook and bake and Dragon Ball!
 
 # Education
@@ -81,7 +83,7 @@ Participating in Vaccine Research
 
 # Recipes
 
-![Alt](./img/grandma.jpg)
+![My grandma and me!](./img/grandma.jpg){height=300px}
 
 ### Cá Kho
 
