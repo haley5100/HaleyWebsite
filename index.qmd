@@ -83,7 +83,7 @@ Participating in Vaccine Research
 
 # Recipes
 
-![My grandma and me!](./img/grandma.jpg){height=300px}
+![My grandma and I!](./img/grandma.jpg){height=300px}
 
 ### Cá Kho
 
